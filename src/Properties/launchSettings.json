@@ -1,0 +1,39 @@
+{
+  "profiles": {
+    "GPhotosAPI": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "dev"
+      }
+    }
+  },
+  "a":
+  {
+    "time": "2021-02-17 23:51:45.6159",
+    "level": "INFO",
+    "message": null,
+    "MediaItem": {
+      "id": "ADJDZHYqnngqo_9XTAdvmZsdfulyOnHBIf5YrvbsGgIaKVEKXu49rsq-NTDjx1LaBq23ToJHd_a3LwSiAotH1aFWZIfjUCfyVQ",
+      "description": null,
+      "productUrl": "https://photos.google.com/lr/album/ADJDZHZh6RRv5pEQFhGD1eeEyxZrHv9fUHj_Vv9q20qfuG6C1w2wmsR1XgF6hcmH93kmptbsRZh2/photo/ADJDZHYqnngqo_9XTAdvmZsdfulyOnHBIf5YrvbsGgIaKVEKXu49rsq-NTDjx1LaBq23ToJHd_a3LwSiAotH1aFWZIfjUCfyVQ",
+      "baseUrl": "https://lh3.googleusercontent.com/lr/AFBm1_aFswvLD5RhD7juA8Sz72lDNBilU-04X2P8vOdxalujznFmQI4L1wP1MaUacTZ1vh-Fj3_UZJohCHzF8rc6hblL4cSmr00TLG1g_fVcoojtqrbC1lPEHkhI9LX0e5XiPBNMGUCrPpvQ_MpYe5feb8d9jmWc5b4nWK4-K0QwyMw64GLY0c_VawInheg-1SwmTpwCE7yS-o9v5V34LmMD-IaD3E85Pphh1JMV7SExJZWeIFKmnVyxMqUz27JTMoOP0Cx9zAr3KBt8rZR5u93avBunkgaCGQ_N8jtB_fzkooHLF2XxMRKI3ZQzaZ6okhD_qS7d2noioQb9u5xoFzEseLQNMfF4v0sSY5ZSGFqX5yznHOjhH57ELDEY4yKlmJVz8t9_j5ryMxicyYMaFPqSf4tdY_sDD8ReeKpPwV1g-pKSHjaTWcsVk8Uftlb-_FYATdThiOgbV2iEd99_G9Dv8QOFB8A1wpsy-FGtGOg5nDHX70DEbpH9-N3hZzdPut89-8PDMJbvU0YVMzi1BbM-jtw8RZcNM0SACfvptHcItnqMB_FsU4OlY3cLYvu-i9fKDvC_fE8izt7Rn_2J_hUNTVY4eH7Q9ehYJII4_iDIjDI2yS9dg-oFQnvUg7cs6Yp5bwqsOCgM3cdxTRtH9RuY0ewziHzXttJITLz4lISrEtZwYgL6ArX6_0pSCIsWUyk5KRdsXOqxUzPHFxSbb0Jf3GHXeFNSX8z4ozqx9xJrfBdXa4n6RoiYsw8sStd_vjLzxMeprtaw9Ne1LyWr2ue7Lgk1OJaCL_B1EqUolUYAuOql1ND6BxlOejF1",
+      "mimeType": "image/jpeg",
+      "mediaMetadata": {
+        "creationTime": "2021-02-16T12:10:17Z",
+        "width": "4000",
+        "height": "3000",
+        "photo": {
+          "focalLength": 4.74,
+          "apertureFNumber": 1.79,
+          "isoEquivalent": 2128,
+          "exposureTime": null,
+          "cameraMake": "Xiaomi",
+          "cameraModel": "Redmi Note 8"
+        },
+        "video": null
+      },
+      "contributorInfo": null,
+      "filename": "IMG_20210216_191014.jpg"
+    }
+  }
+}
